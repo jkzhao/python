@@ -1,2 +1,1 @@
-# python
-for exercise
+python scripts
